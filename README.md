@@ -159,7 +159,7 @@ Thanks to [@nyrahul](https://github.com/nyrahul) for the original Wisecow applic
 
 ## Contact
 
-For questions or help, open an issue or contact mahajanbhushan2005@gmail.com.com.
+For questions or help, open an issue or contact mahajanbhushan2005@gmail.com.
 
 
 
